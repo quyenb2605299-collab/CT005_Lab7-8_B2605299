@@ -7,4 +7,4 @@
 2. Google Form 2 (Đăng ký tham quan TMA): https://forms.gle/16svR7YoE8WSsYjk7
 3. Website Giới thiệu bản thân (Google Sites/GitHub Pages):
 https://sites.google.com/student.ctu.edu.vn/gioithieu--tranthithuquyen/trang-ch%E1%BB%A7
-4. Bảng Quản lý Dự án Trello: 
+4. Bảng Quản lý Dự án Trello: https://trello.com/b/CZfdeAhb
